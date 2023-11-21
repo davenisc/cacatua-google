@@ -33,6 +33,7 @@ $env:GOOGLE_APPLICATION_CREDENTIALS="D:\Documentos_laptop\PROYECTOS\CACATUA\caca
 
 7. debes tener instalado Python en tu pc, para instalarlo ve a  https://www.python.org/ y descargalo
 8. instala el archivo requirements.txt para tener todas las librerias necesarias para usar el bot.
+9. Descargar ffmpeg-git-essentials.7z desde la URL: https://www.gyan.dev/ffmpeg/builds/
 
 con estos pasos ya deberias poder usar el bot y generar tus propios audios con inteligencia artificial.
 
