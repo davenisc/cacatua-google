@@ -23,10 +23,16 @@ Asegúrate de guardar este archivo JSON en un lugar seguro y de especificar su u
 
 4. crea un bot con BotFather en telegram para poder obtener un API KEY, esta informacion la debes reemplazar en el archivo app.py
 5. corre el siguiente comando si usas linux en la terminal: export GOOGLE_APPLICATION_CREDENTIALS="/home/usuario/Documentos/Cacatua/googlekey/tu-archivo-b64ab2333328.json"
-si no usas linux y usas windows usa este comando: set GOOGLE_APPLICATION_CREDENTIALS=C: ruta-de-tu-archivo\Cacatua\googlekey\tu-archivo-b64ab2333328.json"
+si no usas linux y usas windows usa este comando:
 
-6. debes tener instalado Python en tu pc, para instalarlo ve a  https://www.python.org/ y descargalo
-7. instala el archivo requirements.txt para tener todas las librerias necesarias para usar el bot.
+CMD
+set GOOGLE_APPLICATION_CREDENTIALS=D:\Documentos_laptop\PROYECTOS\CACATUA\cacatua-google-main\cacatua-google-main\googlekey\client_secret.json
+
+PowerShell
+$env:GOOGLE_APPLICATION_CREDENTIALS="D:\Documentos_laptop\PROYECTOS\CACATUA\cacatua-google-main\cacatua-google-main\googlekey\client_secret.json"
+
+7. debes tener instalado Python en tu pc, para instalarlo ve a  https://www.python.org/ y descargalo
+8. instala el archivo requirements.txt para tener todas las librerias necesarias para usar el bot.
 
 con estos pasos ya deberias poder usar el bot y generar tus propios audios con inteligencia artificial.
 
